@@ -98,7 +98,7 @@ var immediateModeData =
 	texCoordBuf: new Float32Array(32),
 	texCoordPos: 0
 };
-var verboseLog = false;
+var verboseLog = true;
 var frameCount = 0;
 // Set to a non-zero value to stop after a certain number of frames
 var frameLimit = 0;
